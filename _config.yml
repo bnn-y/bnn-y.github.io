@@ -1,0 +1,10 @@
+excerpt_separator: ""
+pygments: true
+markdown: kramdown
+url: http://bnn-y.github.io
+title: minimalverwirrt
+email: hello@minimalverwirrt.de
+author: bnn_y
+description: Irrungen & Wirrungen
+paginate: 3
+google_analytics: 

@@ -27,12 +27,7 @@ article, aside, details, figcaption, figure, footer, header, main, nav, section,
   display: block;
 }
 
-iframe {
-    width: 100px;
-    height: 50px;
-    margin: 0 auto;
-    
-}  
+
 body {
   font-family: 'Helvetica Neue', Helvetica, sans-serif;
   line-height: 1.5rem;

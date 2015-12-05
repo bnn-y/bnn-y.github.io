@@ -24,7 +24,10 @@ html, body {
 img {
   width: 100%;
 }
-
+iframe{
+    margin:0 auto !important;
+    display:block;
+}
 .site-wrap {
   min-height: 100%;
   margin-bottom: -100px;

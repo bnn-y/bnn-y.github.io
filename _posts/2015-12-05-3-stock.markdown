@@ -3,6 +3,6 @@ published: true
 title: 3. Stock
 layout: post
 tags: [music]
-thumbnail: https://www.google.com/imgres?imgurl=https://s.mxmcdn.net/images-storage/albums/0/2/5/5/0/7/31705520_500_500.jpg
+thumbnail: http://images.shazam.com/coverart/t288065781-i1055802904_s400.jpg
 ---
 <iframe align="middle" src="https://embed.spotify.com/?uri=spotify:track:4IXpDslNDAP72r9OaxZn9F" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>

@@ -1,0 +1,7 @@
+---
+published: true
+title: 3. Stock
+layout: post
+tags: [music]
+---
+<iframe src="https://embed.spotify.com/?uri=spotify:track:4IXpDslNDAP72r9OaxZn9F" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>

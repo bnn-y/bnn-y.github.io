@@ -5,4 +5,4 @@ layout: post
 tags: [music]
 thumbnail: http://images.shazam.com/coverart/t288065781-i1055802904_s400.jpg
 ---
-<iframe align="middle" src="https://embed.spotify.com/?uri=spotify:track:4IXpDslNDAP72r9OaxZn9F" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
+<iframe float="center" src="https://embed.spotify.com/?uri=spotify:track:4IXpDslNDAP72r9OaxZn9F" width="300" height="380" frameborder="0" allowtransparency="true"></iframe>
